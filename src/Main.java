@@ -12,12 +12,7 @@ public class Main {
         firstName = scanner.nextLine();
         System.out.println("Enter your favourite food: ");
         favouriteFood = scanner.nextLine();
-
         System.out.println("First Name: " + firstName + "\nAge: " + age + "\nFavourite Food: " +favouriteFood);
-
-
-
-
     }
 
 }
